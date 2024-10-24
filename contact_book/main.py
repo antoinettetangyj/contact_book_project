@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
-# rpcontacts/main.py
+#contact_book/main.py
 
-"""This module provides RP Contacts application."""
+"""This module provides Contacts application."""
 
 import sys
 from PyQt5.QtWidgets import QApplication
@@ -10,7 +10,7 @@ from .views import Window
 
 def main():
 
-    """RP Contacts main function."""
+    """Contacts main function."""
 
     #create application
     app = QApplication(sys.argv)

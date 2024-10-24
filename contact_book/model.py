@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# rpcontacts/model.py
+#contact_book/model.py
 
 """This module provides a model to manage the contacts table."""
 
